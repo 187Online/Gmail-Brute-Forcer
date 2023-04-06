@@ -1,2 +1,2 @@
-# SIMPLE-GMA-L-BRUTE-FORCER
+# SIMPLE GMAIL BRUTE FORCER
 Very simple gmail brute forcer.
